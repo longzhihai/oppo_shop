@@ -1,0 +1,26 @@
+{
+    "name": "oppo-shop",
+    "version": "1.0.0",
+    "description": "* 官网:\r * 上线网址\r     * webApp: \r     * 后台管理系统: \r         * 用户名：\r         * 密码：\r * git仓库地址:",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gzh52108/OPPO-shop.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gzh52108/OPPO-shop/issues"
+    },
+    "homepage": "https://github.com/gzh52108/OPPO-shop#readme",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "express": "^4.17.1",
+        "mongodb": "^4.2.0",
+        "superagent": "^6.1.0",
+        "crypto": "^1.0.1"
+    }
+}

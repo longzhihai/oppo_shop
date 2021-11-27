@@ -1,0 +1,5 @@
+module.export = {
+    lintOnSave: 'warning',
+
+
+}
